@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&lines=BE+A+NERD+JUST+FOR+NOW.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=BE+A+NERD+JUST+FOR+NOW.)](https://git.io/typing-svg)
 
 
 <h1 align="left">Hi I RANDOM CAT USER</h2>
