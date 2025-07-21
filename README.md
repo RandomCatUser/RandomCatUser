@@ -1,23 +1,49 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=BE+A+NERD+JUST+FOR+NOW.)](https://git.io/typing-svg)
-
-
-<h1 align="left">Hi I RANDOM CAT USER</h2>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RandomCatUser&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RandomCatUser&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=BE+A+NERD+JUST+FOR+NOW." alt="Typing SVG - Be a Nerd Just For Now.">
+  </a>
 </div>
 
+<h1 align="center">Hi there, I'm RandomCatUser! 👋</h1>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RandomCatUser&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RandomCatUser&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomCatUser&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RandomCatUser&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  Welcome to my GitHub profile! I'm passionate about coding and exploring new technologies.
+  Here you'll find some of my projects and contributions. Let's build something awesome together!
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RandomCatUser&icon=4&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RandomCatUser&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="RandomCatUser's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RandomCatUser&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="RandomCatUser's Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RandomCatUser&theme=dark&hide_border=false" alt="RandomCatUser's GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RandomCatUser&theme=algolia" alt="RandomCatUser's GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Profile Visits
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in/api?id=RandomCatUser&icon=4&color=13">
+    <img src="https://visitcount.itsvg.in/api?id=RandomCatUser&icon=4&color=13" alt="Visitor Count for RandomCatUser's Profile">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <small>Proudly created with GPRM ( https://gprm.itsvg.in )</small>
+</div>
