@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi there, I'm RandomCatUser! 👋</h1>
+<h1 align="center">Yoo !, I'm RandomCatUser 👋</h1>
 
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about coding and exploring new technologies.
@@ -34,16 +34,4 @@
 
 ---
 
-## 📈 Profile Visits
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=RandomCatUser&icon=4&color=13">
-    <img src="https://visitcount.itsvg.in/api?id=RandomCatUser&icon=4&color=13" alt="Visitor Count for RandomCatUser's Profile">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <small>Proudly created with GPRM ( https://gprm.itsvg.in )</small>
-</div>
