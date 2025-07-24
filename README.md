@@ -29,7 +29,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RandomCatUser&theme=algolia" alt="RandomCatUser's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RandomCatUser&theme=algolia" alt="Error! 507" />
 </div>
 
 ---
