@@ -8,7 +8,7 @@
 
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about coding and exploring new technologies.
-  Here you'll find some of my projects and contributions. Let's build something awesome together!
+  Here you'll find some of my projects and contributions. Let's be a cat!
 </p>
 
 ---
