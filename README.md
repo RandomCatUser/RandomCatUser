@@ -11,6 +11,8 @@
   </a>
 </div>
 
+---
+
 <h1 align="center">Yoo !, I'm RandomCatUser 👋</h1>
 
 <p align="center">
@@ -45,6 +47,6 @@
   <img src="https://img.shields.io/badge/Be_A_Cat-ᓚ₍%20^.%20̫%20.^₎-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Cat Button">
 </a>
 
-
+---
 
 
