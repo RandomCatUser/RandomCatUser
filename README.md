@@ -3,6 +3,8 @@
   <img src="/img.png" alt="Typing SVG - Be a Nerd Just For Now.">
 </div>
 
+---
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=BE+A+NERD+JUST+FOR+NOW." alt="Typing SVG - Be a Nerd Just For Now.">
