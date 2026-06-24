@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dihan Ramanayaka</h1>
+<h1 align="center">Hi 👋, I'm Lord Whiskers 𖹭</h1>
 <h3 align="center">Student, Devoloper </h3>
 
 ## GitHub Stats & Trophies
