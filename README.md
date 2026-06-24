@@ -1,63 +1,66 @@
+<h1 align="center">Hi 👋, I'm Dihan Ramanayaka</h1>
+<h3 align="center">Student, Devoloper </h3>
 
-<div align="center">
-  <img src="/img.png" alt="Typing SVG - Be a Nerd Just For Now.">
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
----
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=BE+A+NERD+JUST+FOR+NOW." alt="Typing SVG - Be a Nerd Just For Now.">
-  </a>
-</div>
-
----
-
-<h1 align="center">Yoo !, I'm RandomCatUser 👋</h1>
-
+## GitHub Stats & Trophies
 <p align="center">
-  Welcome to my GitHub profile! I'm passionate about coding and exploring new technologies.
-  Here you'll find some of my projects and contributions. Let's be a cat!
+  <a href="https://github.com/RandomCatUser">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RandomCatUser&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="RandomCatUser's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=RandomCatUser&theme=nightowl&hide_border=true&cache_seconds=86400" alt="RandomCatUser's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=RandomCatUser&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Dihan Ramanayaka's GitHub Trophies" />
 </p>
 
----
 
-## My GitHub Stats
+## Languages & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RandomCatUser&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="RandomCatUser's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RandomCatUser&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="RandomCatUser's Top Languages" />
-</div>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RandomCatUser&theme=dark&hide_border=false" alt="RandomCatUser's GitHub Streak" />
-</div>
+</p>
 
----
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
 
-## GitHub Trophies
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RandomCatUser&theme=algolia" alt="Error! 507" />
-</div>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
 
----
+</p>
 
-<a href="https://randomcatuser.github.io/hello/">
-  <img src="https://img.shields.io/badge/Be_A_Cat-ᓚ₍%20^.%20̫%20.^₎-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Cat Button">
-</a>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 
----
+</p>
 
-## Song That Represents Me
-
-
-<div align="center">
-  <a href="https://open.spotify.com/track/4769Y9i89VUrI6YicY6fXF">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=black&show_offline=true&background_color=121212&interactivity=true" />
+<p align="center">
+  <a href="https://github.com/RandomCatUser">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RandomCatUser&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
   </a>
-  <br/>
-  <img src="https://img.shields.io/badge/Status-Now_Playing_Villain-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</div>
-  
+</p>
+
+## Connect with Me
+<p align="center">
+  <a href="mailto:dihanramanayaka@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Dihan Ramanayaka's Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
