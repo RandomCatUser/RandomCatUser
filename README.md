@@ -51,10 +51,7 @@
   </a>
 </p>
 
-## Connect with Me
-<p align="center">
-  <a href="mailto:dihanramanayaka@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Dihan Ramanayaka's Email"/></a>
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
