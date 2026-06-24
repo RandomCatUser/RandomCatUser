@@ -7,7 +7,7 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 
 <p align="center">
   <a href="https://github.com/RandomCatUser">
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠 Languages & Tools
+## Languages & Tools
 
 ### Programming Languages
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 📈 Most Used Languages
+## Most Used Languages
 
 <p align="center">
   <a href="https://github.com/RandomCatUser">
@@ -72,7 +72,7 @@
 
 ---
 
-## 🎮 Contribution Game
+## Contribution Game
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Shooter Contribution Graph" />
@@ -88,7 +88,7 @@
 
 ---
 
-## 🔥 GitHub Metrics
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RandomCatUser&theme=github_dark" />
