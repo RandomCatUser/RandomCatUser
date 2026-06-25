@@ -2,7 +2,7 @@
 <h3 align="center">Student • Developer • Open Source Enthusiast</h3>
 
 <p align="center">
-  <i>Building, learning, and experimenting with code.</i>
+  <i>Never Have I Ever.</i>
 </p>
 
 ---
