@@ -2,7 +2,7 @@
 <h3 align="center">Student • Developer • Open Source Enthusiast</h3>
 
 <p align="center">
-  <i>Never Have I Ever.</i>
+  <i>So many stars in the sky, I don't know why.</i>
 </p>
 
 ---
