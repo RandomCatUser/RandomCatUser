@@ -30,7 +30,7 @@
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
 </p>
 
 ### Frontend
