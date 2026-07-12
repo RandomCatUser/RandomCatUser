@@ -24,40 +24,52 @@
 
 ## Languages & Tools
 
-### Programming Languages
+### Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,c" />
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,astro,tailwind,vite" />
 </p>
 
 ### Backend
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase,supabase" />
+</p>
+
+### AI & Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+### DevOps & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,netlify,githubactions" />
 </p>
 
 ### Tools
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,bash,markdown,npm" />
+</p>
+
+### Currently Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,go,electron,tauri" />
 </p>
 
 ---
