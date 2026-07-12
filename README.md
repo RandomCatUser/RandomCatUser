@@ -4,7 +4,7 @@
   Pastel skies and paper planes, a perfect day that can't complain.
 </p>
 
-<p align="left">
+<p align="center">
   <i>"So many stars in the sky, I don't know why."</i>
 </p>
 
