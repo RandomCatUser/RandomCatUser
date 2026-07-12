@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lord Whiskers 𖹭</h1>
-<h3 align="center">Student • Developer • Open Source Enthusiast</h3>
 
 <p align="center">
-  <i>So many stars in the sky, I don't know why.</i>
+  Pastel skies and paper planes, a perfect day that can't complain.
+</p>
+
+<p align="left">
+  <i>"So many stars in the sky, I don't know why."</i>
 </p>
 
 ---
