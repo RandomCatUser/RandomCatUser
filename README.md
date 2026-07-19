@@ -16,6 +16,7 @@
   <a href="https://github.com/RandomCatUser">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RandomCatUser&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
   </a>
+  
   <img height="180em" src="https://streak-stats.demolab.com/?user=RandomCatUser&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
@@ -83,7 +84,7 @@
   <a href="https://github.com/RandomCatUser">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RandomCatUser&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
   </a>
-</p>
+</p
 
 ---
 
