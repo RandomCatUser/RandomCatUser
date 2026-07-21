@@ -116,6 +116,6 @@
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile, I really appreciate it.</b>
+  <b>Thanks for visiting my profile, I really appreciate it. 𖹭</b>
 </p
   
